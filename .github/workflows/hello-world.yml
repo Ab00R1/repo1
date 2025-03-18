@@ -3,7 +3,7 @@
   on:
      push:
        branches:
-         - main
+         - fur1
 
    jobs:
      say-hello:
